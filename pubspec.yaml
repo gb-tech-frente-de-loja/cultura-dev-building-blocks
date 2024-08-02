@@ -1,0 +1,20 @@
+name: gb_metrica
+description: GB Cultura DEV - Building Block de Metrica
+version: 0.0.1
+repository: https://github.com/gb-tech-frente-de-loja/cultura-dev-building-blocks/tree/main
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  firebase_analytics: ^11.2.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^3.0.0
