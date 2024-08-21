@@ -2,6 +2,8 @@
 
 GB Cultura DEV - Building Block de Metrica
 
+CHORE4
+
 ## Instalação 💻
 
 ```yaml
