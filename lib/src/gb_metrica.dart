@@ -7,4 +7,8 @@ class GbMetrica {
   static IGbMetrica create() {
     return FirebaseAnalyticsProvider();
   }
+
+  void teste() {
+    print('teste');
+  }
 }
