@@ -2,7 +2,11 @@
 
 GB Cultura DEV - Building Block de Metrica
 
-CHORE4
+22211doc
+CHORE3 AAAA
+AAA
+
+FFF
 
 ## Instalação 💻
 
